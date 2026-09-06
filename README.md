@@ -8,7 +8,7 @@ I work on computer vision, natural language processing and full-stack applicatio
 
 | Project | Focus |
 | --- | --- |
-| [DoseWise](https://github.com/danaaa913/dosewise) | B2B pharmacy exchange platform with React, TypeScript, Express and PostgreSQL |
+| DoseWise | Private B2B pharmacy exchange platform with React, TypeScript, Express and PostgreSQL |
 | [OAODD](https://github.com/danaaa913/OAODD) | Nine-class outdoor object-detection annotations, previews and citation metadata |
 | [Python Code Assistant](https://github.com/danaaa913/nlp-code-assistant) | Semantic retrieval, LangGraph routing, Groq and a Gradio interface |
 | [Toxic Comment Classification](https://github.com/danaaa913/LSTM) | BiLSTM experiments with text preprocessing and classification diagnostics |
