@@ -38,7 +38,7 @@ I build practical AI tools for underserved communities — focusing on Arabic sp
 
 ## About
 
-- 🎓 CS student @ Yarmouk University, Faculty of Information Technology — Jordan
+- 🎓 AI student @ Yarmouk University, Faculty of Information Technology — Jordan
 - 🤝 Founder of **NOVA AI**, a student AI team
 - 🏆 Projects submitted to: Crown Prince Foundation (Jordan), university-level competitions
 - 🔍 Focus: Arabic NLP, accessibility tools, resource-constrained deployment
